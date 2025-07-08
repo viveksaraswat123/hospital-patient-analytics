@@ -1,4 +1,4 @@
-# hospital-patient-analytics
+# Hospital-Patient-Analytics
 Power BI dashboard analyzing hospital patient data (2019–2024)
 🏥 Hospital Patient Analytics Dashboard (2019–2024)
 
